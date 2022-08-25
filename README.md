@@ -2,7 +2,7 @@
 
 example of azp with rust, and unit testing
 
-![Rust](https://github.com/ninjaoflight/rust-demo/workflows/Rust/badge.svg)
+![Rust](https://github.com/v-jonathangu/rust-demo/workflows/Rust/badge.svg)
 [![Build Status](https://dev.azure.com/v-jonathangu/test%20rust/_apis/build/status/ninjaoflight.rust-demo?branchName=master)](https://dev.azure.com/v-jonathangu/test%20rust/_build/latest?definitionId=1&branchName=master)
 
 ## Usage
